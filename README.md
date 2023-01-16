@@ -7,21 +7,23 @@ This project involves taking a kegerator and integrating it with a Raspberry Pi 
 
 | Phase  | Time | Completed | Unfinished
 | ------------- |:-------------:|:-------------:|:-------------:|
-| Sourcing | January 2022 | | |
-| Kegerator Install (No Monitoring)| |
+| Kegerator Acquisition + Install (No Monitoring) | January 2022 | | |
+| Sourcing + Ensuring Part Compatibility| January 2022 | | |
 | Software Integration      |      |
 | Calibration + Full System Testing      |      |
 
 ## Materials
 * Kegerator
-
+* Tubing
+* Plumbing Thread Tape
+* Flow Sensor
+* Thread-to-Barbed Connector for Flow Sensor
 * Raspberry Pi 4
 * Arduino Uno
 * DS18B20 Temperature Sensor
-* Flow Sensor
-* Thread-to-Barbed Connector for Flow Sensor
+
 * Wires
-* Tubing
+
 
 ## Useful Resources
 
